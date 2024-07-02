@@ -35,6 +35,7 @@ import Row from "./Row";
   // Import the requests object
 import Banner from "./Banner";
 import Nav from "./Nav";
+import requests from "./requests";
 
 const App = () => {
     return (
